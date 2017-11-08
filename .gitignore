@@ -1,0 +1,17 @@
+
+#######过滤掉的文件夹############
+target
+out
+.idea/libraries
+.idea/inspectionProfiles
+
+
+# 指定过滤的文件
+*.apk
+*.ap_
+*.dex
+*.class
+*.jar
+*.iml
+*.ipr
+*.iws
